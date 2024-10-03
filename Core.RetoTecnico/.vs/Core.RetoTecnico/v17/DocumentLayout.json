@@ -1,0 +1,986 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDDDCC-D6A9-4DCD-BCB8-2D1DC5127073}|Core.RetoTecnico.Infrastructure\\Core.RetoTecnico.Infrastructure.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.infrastructure\\repositories\\movimientosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DDDDCC-D6A9-4DCD-BCB8-2D1DC5127073}|Core.RetoTecnico.Infrastructure\\Core.RetoTecnico.Infrastructure.csproj|solutionrelative:core.retotecnico.infrastructure\\repositories\\movimientosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4ACE20-7B3E-40A1-8043-CDF28D90C876}|Core.RetoTecnico.API\\Core.RetoTecnico.API.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.api\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4ACE20-7B3E-40A1-8043-CDF28D90C876}|Core.RetoTecnico.API\\Core.RetoTecnico.API.csproj|solutionrelative:core.retotecnico.api\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4ACE20-7B3E-40A1-8043-CDF28D90C876}|Core.RetoTecnico.API\\Core.RetoTecnico.API.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.api\\controllers\\movimientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4ACE20-7B3E-40A1-8043-CDF28D90C876}|Core.RetoTecnico.API\\Core.RetoTecnico.API.csproj|solutionrelative:core.retotecnico.api\\controllers\\movimientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDDDCC-D6A9-4DCD-BCB8-2D1DC5127073}|Core.RetoTecnico.Infrastructure\\Core.RetoTecnico.Infrastructure.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.infrastructure\\repositories\\cuentasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DDDDCC-D6A9-4DCD-BCB8-2D1DC5127073}|Core.RetoTecnico.Infrastructure\\Core.RetoTecnico.Infrastructure.csproj|solutionrelative:core.retotecnico.infrastructure\\repositories\\cuentasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDDDCC-D6A9-4DCD-BCB8-2D1DC5127073}|Core.RetoTecnico.Infrastructure\\Core.RetoTecnico.Infrastructure.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.infrastructure\\repositories\\clientesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DDDDCC-D6A9-4DCD-BCB8-2D1DC5127073}|Core.RetoTecnico.Infrastructure\\Core.RetoTecnico.Infrastructure.csproj|solutionrelative:core.retotecnico.infrastructure\\repositories\\clientesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4ACE20-7B3E-40A1-8043-CDF28D90C876}|Core.RetoTecnico.API\\Core.RetoTecnico.API.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.api\\controllers\\cuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4ACE20-7B3E-40A1-8043-CDF28D90C876}|Core.RetoTecnico.API\\Core.RetoTecnico.API.csproj|solutionrelative:core.retotecnico.api\\controllers\\cuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4ACE20-7B3E-40A1-8043-CDF28D90C876}|Core.RetoTecnico.API\\Core.RetoTecnico.API.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4ACE20-7B3E-40A1-8043-CDF28D90C876}|Core.RetoTecnico.API\\Core.RetoTecnico.API.csproj|solutionrelative:core.retotecnico.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4ACE20-7B3E-40A1-8043-CDF28D90C876}|Core.RetoTecnico.API\\Core.RetoTecnico.API.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4ACE20-7B3E-40A1-8043-CDF28D90C876}|Core.RetoTecnico.API\\Core.RetoTecnico.API.csproj|solutionrelative:core.retotecnico.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3960BC-0A17-48EE-B2DE-7D2F41BC571A}|RetoTecnico.Tests\\RetoTecnico.Tests.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\retotecnico.tests\\clientescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3960BC-0A17-48EE-B2DE-7D2F41BC571A}|RetoTecnico.Tests\\RetoTecnico.Tests.csproj|solutionrelative:retotecnico.tests\\clientescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\features\\queries\\command\\addcliente\\addclientecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\features\\queries\\command\\addcliente\\addclientecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\features\\queries\\command\\addmovimiento\\addmovimientocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\features\\queries\\command\\addmovimiento\\addmovimientocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\features\\queries\\command\\addcuenta\\addcuentacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\features\\queries\\command\\addcuenta\\addcuentacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\features\\queries\\command\\addcliente\\addclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\features\\queries\\command\\addcliente\\addclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\contracts\\persistence\\iclientesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\contracts\\persistence\\iclientesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\features\\queries\\command\\addmovimiento\\addmovimientocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\features\\queries\\command\\addmovimiento\\addmovimientocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\contracts\\persistence\\imovimientosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\contracts\\persistence\\imovimientosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\features\\queries\\command\\addcuenta\\addcuentacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\features\\queries\\command\\addcuenta\\addcuentacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\contracts\\persistence\\icuentasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\contracts\\persistence\\icuentasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1006EB9B-73F6-4C54-A219-571F83364F09}|Core.RetoTecnico.Domain\\Core.RetoTecnico.Domain.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.domain\\entities\\cuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1006EB9B-73F6-4C54-A219-571F83364F09}|Core.RetoTecnico.Domain\\Core.RetoTecnico.Domain.csproj|solutionrelative:core.retotecnico.domain\\entities\\cuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1006EB9B-73F6-4C54-A219-571F83364F09}|Core.RetoTecnico.Domain\\Core.RetoTecnico.Domain.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.domain\\entities\\movimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1006EB9B-73F6-4C54-A219-571F83364F09}|Core.RetoTecnico.Domain\\Core.RetoTecnico.Domain.csproj|solutionrelative:core.retotecnico.domain\\entities\\movimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDDDCC-D6A9-4DCD-BCB8-2D1DC5127073}|Core.RetoTecnico.Infrastructure\\Core.RetoTecnico.Infrastructure.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.infrastructure\\context\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DDDDCC-D6A9-4DCD-BCB8-2D1DC5127073}|Core.RetoTecnico.Infrastructure\\Core.RetoTecnico.Infrastructure.csproj|solutionrelative:core.retotecnico.infrastructure\\context\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\features\\queries\\command\\deletecliente\\deleteclientecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\features\\queries\\command\\deletecliente\\deleteclientecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\features\\queries\\command\\deletecliente\\deleteclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\features\\queries\\command\\deletecliente\\deleteclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\features\\queries\\command\\getallclientes\\getallclientescommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\features\\queries\\command\\getallclientes\\getallclientescommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1006EB9B-73F6-4C54-A219-571F83364F09}|Core.RetoTecnico.Domain\\Core.RetoTecnico.Domain.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.domain\\entities\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1006EB9B-73F6-4C54-A219-571F83364F09}|Core.RetoTecnico.Domain\\Core.RetoTecnico.Domain.csproj|solutionrelative:core.retotecnico.domain\\entities\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4ACE20-7B3E-40A1-8043-CDF28D90C876}|Core.RetoTecnico.API\\Core.RetoTecnico.API.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C4ACE20-7B3E-40A1-8043-CDF28D90C876}|Core.RetoTecnico.API\\Core.RetoTecnico.API.csproj|solutionrelative:core.retotecnico.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4ACE20-7B3E-40A1-8043-CDF28D90C876}|Core.RetoTecnico.API\\Core.RetoTecnico.API.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.api\\core.retotecnico.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7C4ACE20-7B3E-40A1-8043-CDF28D90C876}|Core.RetoTecnico.API\\Core.RetoTecnico.API.csproj|solutionrelative:core.retotecnico.api\\core.retotecnico.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4ACE20-7B3E-40A1-8043-CDF28D90C876}|Core.RetoTecnico.API\\Core.RetoTecnico.API.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C4ACE20-7B3E-40A1-8043-CDF28D90C876}|Core.RetoTecnico.API\\Core.RetoTecnico.API.csproj|solutionrelative:core.retotecnico.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1006EB9B-73F6-4C54-A219-571F83364F09}|Core.RetoTecnico.Domain\\Core.RetoTecnico.Domain.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.domain\\entities\\estadocuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1006EB9B-73F6-4C54-A219-571F83364F09}|Core.RetoTecnico.Domain\\Core.RetoTecnico.Domain.csproj|solutionrelative:core.retotecnico.domain\\entities\\estadocuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDDDCC-D6A9-4DCD-BCB8-2D1DC5127073}|Core.RetoTecnico.Infrastructure\\Core.RetoTecnico.Infrastructure.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.infrastructure\\repositories\\bancounitofworkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DDDDCC-D6A9-4DCD-BCB8-2D1DC5127073}|Core.RetoTecnico.Infrastructure\\Core.RetoTecnico.Infrastructure.csproj|solutionrelative:core.retotecnico.infrastructure\\repositories\\bancounitofworkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\contracts\\persistence\\ipersonasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\contracts\\persistence\\ipersonasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1006EB9B-73F6-4C54-A219-571F83364F09}|Core.RetoTecnico.Domain\\Core.RetoTecnico.Domain.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.domain\\entities\\requestestadocuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1006EB9B-73F6-4C54-A219-571F83364F09}|Core.RetoTecnico.Domain\\Core.RetoTecnico.Domain.csproj|solutionrelative:core.retotecnico.domain\\entities\\requestestadocuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\features\\queries\\command\\getallcuentas\\getallcuentascommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\features\\queries\\command\\getallcuentas\\getallcuentascommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\features\\queries\\command\\getallcuentas\\getallcuentascommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\features\\queries\\command\\getallcuentas\\getallcuentascommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\features\\queries\\command\\getallclientes\\getallclientescommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\features\\queries\\command\\getallclientes\\getallclientescommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1006EB9B-73F6-4C54-A219-571F83364F09}|Core.RetoTecnico.Domain\\Core.RetoTecnico.Domain.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.domain\\entities\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1006EB9B-73F6-4C54-A219-571F83364F09}|Core.RetoTecnico.Domain\\Core.RetoTecnico.Domain.csproj|solutionrelative:core.retotecnico.domain\\entities\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\source\\Neoris\\Core.RetoTecnico\\Core.RetoTecnico.Infrastructure\\Migrations\\20240927145438_RetoTecnicoBDD_v1.0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\contracts\\persistence\\ibancounitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\contracts\\persistence\\ibancounitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\source\\Neoris\\Core.RetoTecnico\\Core.RetoTecnico.Infrastructure\\Migrations\\20240927024523_BancoBDD_v1.1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4ACE20-7B3E-40A1-8043-CDF28D90C876}|Core.RetoTecnico.API\\Core.RetoTecnico.API.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C4ACE20-7B3E-40A1-8043-CDF28D90C876}|Core.RetoTecnico.API\\Core.RetoTecnico.API.csproj|solutionrelative:core.retotecnico.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDDDCC-D6A9-4DCD-BCB8-2D1DC5127073}|Core.RetoTecnico.Infrastructure\\Core.RetoTecnico.Infrastructure.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.infrastructure\\repositories\\personasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DDDDCC-D6A9-4DCD-BCB8-2D1DC5127073}|Core.RetoTecnico.Infrastructure\\Core.RetoTecnico.Infrastructure.csproj|solutionrelative:core.retotecnico.infrastructure\\repositories\\personasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4ACE20-7B3E-40A1-8043-CDF28D90C876}|Core.RetoTecnico.API\\Core.RetoTecnico.API.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.api\\core.retotecnico.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7C4ACE20-7B3E-40A1-8043-CDF28D90C876}|Core.RetoTecnico.API\\Core.RetoTecnico.API.csproj|solutionrelative:core.retotecnico.api\\core.retotecnico.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\features\\queries\\command\\updatepersona\\updatepersonacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\features\\queries\\command\\updatepersona\\updatepersonacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\features\\queries\\command\\updatepersona\\updatepersonacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\features\\queries\\command\\updatepersona\\updatepersonacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\features\\queries\\command\\updatemovimiento\\updatemovimientocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\features\\queries\\command\\updatemovimiento\\updatemovimientocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\features\\queries\\command\\updatemovimiento\\updatemovimientocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\features\\queries\\command\\updatemovimiento\\updatemovimientocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\features\\queries\\command\\updatecuenta\\updatecuentacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\features\\queries\\command\\updatecuenta\\updatecuentacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\features\\queries\\command\\updatecuenta\\updatecuentacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\features\\queries\\command\\updatecuenta\\updatecuentacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\features\\queries\\command\\updatecliente\\updateclientecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\features\\queries\\command\\updatecliente\\updateclientecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\features\\queries\\command\\updatecliente\\updateclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\features\\queries\\command\\updatecliente\\updateclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\features\\queries\\command\\deletepersona\\deletepersonacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\features\\queries\\command\\deletepersona\\deletepersonacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\features\\queries\\command\\deletepersona\\deletepersonacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\features\\queries\\command\\deletepersona\\deletepersonacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\features\\queries\\command\\deletemovimiento\\deletemovimientocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\features\\queries\\command\\deletemovimiento\\deletemovimientocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\features\\queries\\command\\deletecuenta\\deletecuentacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\features\\queries\\command\\deletecuenta\\deletecuentacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\features\\queries\\command\\addpersona\\addpersonacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\features\\queries\\command\\addpersona\\addpersonacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\features\\queries\\command\\deletemovimiento\\deletemovimientocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\features\\queries\\command\\deletemovimiento\\deletemovimientocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\features\\queries\\command\\deletecuenta\\deletecuentacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\features\\queries\\command\\deletecuenta\\deletecuentacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\features\\queries\\command\\addpersona\\addpersonacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\features\\queries\\command\\addpersona\\addpersonacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.application\\core.retotecnico.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F4E0866-F55D-4D5F-9B81-404253F79736}|Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj|solutionrelative:core.retotecnico.application\\core.retotecnico.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1006EB9B-73F6-4C54-A219-571F83364F09}|Core.RetoTecnico.Domain\\Core.RetoTecnico.Domain.csproj|c:\\users\\rodan\\source\\repos\\retotecnicomicrosbackend\\core.retotecnico\\core.retotecnico.domain\\core.retotecnico.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1006EB9B-73F6-4C54-A219-571F83364F09}|Core.RetoTecnico.Domain\\Core.RetoTecnico.Domain.csproj|solutionrelative:core.retotecnico.domain\\core.retotecnico.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Infrastructure\\Repositories\\ClientesRepository.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Infrastructure\\Repositories\\ClientesRepository.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Infrastructure\\Repositories\\ClientesRepository.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Infrastructure\\Repositories\\ClientesRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAhwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:18:13.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportesController.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.API\\Controllers\\ReportesController.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.API\\Controllers\\ReportesController.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.API\\Controllers\\ReportesController.cs",
+              "RelativeToolTip": "Core.RetoTecnico.API\\Controllers\\ReportesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T00:52:45.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovimientosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Infrastructure\\Repositories\\MovimientosRepository.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Infrastructure\\Repositories\\MovimientosRepository.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Infrastructure\\Repositories\\MovimientosRepository.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Infrastructure\\Repositories\\MovimientosRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:24:48.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CuentasController.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.API\\Controllers\\CuentasController.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.API\\Controllers\\CuentasController.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.API\\Controllers\\CuentasController.cs",
+              "RelativeToolTip": "Core.RetoTecnico.API\\Controllers\\CuentasController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwB4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T17:04:30.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddClienteCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\AddCliente\\AddClienteCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\AddCliente\\AddClienteCommandHandler.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\AddCliente\\AddClienteCommandHandler.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\AddCliente\\AddClienteCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:04:02.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovimientosController.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.API\\Controllers\\MovimientosController.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.API\\Controllers\\MovimientosController.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.API\\Controllers\\MovimientosController.cs",
+              "RelativeToolTip": "Core.RetoTecnico.API\\Controllers\\MovimientosController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T17:04:46.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientesControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\RetoTecnico.Tests\\ClientesControllerTests.cs",
+              "RelativeDocumentMoniker": "RetoTecnico.Tests\\ClientesControllerTests.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\RetoTecnico.Tests\\ClientesControllerTests.cs",
+              "RelativeToolTip": "RetoTecnico.Tests\\ClientesControllerTests.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAD0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:01:44.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CuentasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Infrastructure\\Repositories\\CuentasRepository.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Infrastructure\\Repositories\\CuentasRepository.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Infrastructure\\Repositories\\CuentasRepository.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Infrastructure\\Repositories\\CuentasRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAASwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:24:29.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.API\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.API\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.API\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Core.RetoTecnico.API\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAawB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T17:04:06.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddClienteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\AddCliente\\AddClienteCommand.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\AddCliente\\AddClienteCommand.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\AddCliente\\AddClienteCommand.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\AddCliente\\AddClienteCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:04:19.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.API\\Program.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.API\\Program.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.API\\Program.cs",
+              "RelativeToolTip": "Core.RetoTecnico.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:47:27.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddCuentaCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\AddCuenta\\AddCuentaCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\AddCuenta\\AddCuentaCommandHandler.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\AddCuenta\\AddCuentaCommandHandler.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\AddCuenta\\AddCuentaCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:35:26.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddMovimientoCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\AddMovimiento\\AddMovimientoCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\AddMovimiento\\AddMovimientoCommandHandler.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\AddMovimiento\\AddMovimientoCommandHandler.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\AddMovimiento\\AddMovimientoCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:36:05.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IClientesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Contracts\\Persistence\\IClientesRepository.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Contracts\\Persistence\\IClientesRepository.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Contracts\\Persistence\\IClientesRepository.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Contracts\\Persistence\\IClientesRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T18:03:29.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddMovimientoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\AddMovimiento\\AddMovimientoCommand.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\AddMovimiento\\AddMovimientoCommand.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\AddMovimiento\\AddMovimientoCommand.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\AddMovimiento\\AddMovimientoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:35:49.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IMovimientosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Contracts\\Persistence\\IMovimientosRepository.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Contracts\\Persistence\\IMovimientosRepository.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Contracts\\Persistence\\IMovimientosRepository.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Contracts\\Persistence\\IMovimientosRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAnwA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T18:05:08.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddCuentaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\AddCuenta\\AddCuentaCommand.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\AddCuenta\\AddCuentaCommand.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\AddCuenta\\AddCuentaCommand.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\AddCuenta\\AddCuentaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:35:13.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICuentasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Contracts\\Persistence\\ICuentasRepository.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Contracts\\Persistence\\ICuentasRepository.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Contracts\\Persistence\\ICuentasRepository.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Contracts\\Persistence\\ICuentasRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T05:07:16.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Movimientos.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Domain\\Entities\\Movimientos.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Domain\\Entities\\Movimientos.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Domain\\Entities\\Movimientos.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Domain\\Entities\\Movimientos.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:40:48.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cuentas.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Domain\\Entities\\Cuentas.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Domain\\Entities\\Cuentas.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Domain\\Entities\\Cuentas.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Domain\\Entities\\Cuentas.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAlwBEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:40:33.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BancoContext.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Infrastructure\\Context\\BancoContext.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Infrastructure\\Context\\BancoContext.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Infrastructure\\Context\\BancoContext.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Infrastructure\\Context\\BancoContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:20:36.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DeleteClienteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\DeleteCliente\\DeleteClienteCommand.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\DeleteCliente\\DeleteClienteCommand.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\DeleteCliente\\DeleteClienteCommand.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\DeleteCliente\\DeleteClienteCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:14:50.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DeleteClienteCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\DeleteCliente\\DeleteClienteCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\DeleteCliente\\DeleteClienteCommandHandler.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\DeleteCliente\\DeleteClienteCommandHandler.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\DeleteCliente\\DeleteClienteCommandHandler.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBMAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:15:02.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetAllClientesCommand.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\GetAllClientes\\GetAllClientesCommand.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\GetAllClientes\\GetAllClientesCommand.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\GetAllClientes\\GetAllClientesCommand.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\GetAllClientes\\GetAllClientesCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T00:25:05.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Domain\\Entities\\Clientes.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Domain\\Entities\\Clientes.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Domain\\Entities\\Clientes.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Domain\\Entities\\Clientes.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:40:07.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.API\\appsettings.Development.json",
+              "RelativeToolTip": "Core.RetoTecnico.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T22:02:59.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Core.RetoTecnico.API.http",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.API\\Core.RetoTecnico.API.http",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.API\\Core.RetoTecnico.API.http",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.API\\Core.RetoTecnico.API.http",
+              "RelativeToolTip": "Core.RetoTecnico.API\\Core.RetoTecnico.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-26T22:14:02.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.API\\appsettings.json",
+              "RelativeToolTip": "Core.RetoTecnico.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-25T15:47:34.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EstadoCuenta.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Domain\\Entities\\EstadoCuenta.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Domain\\Entities\\EstadoCuenta.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Domain\\Entities\\EstadoCuenta.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Domain\\Entities\\EstadoCuenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T01:09:46.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BancoUnitOfWorkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Infrastructure\\Repositories\\BancoUnitOfWorkRepository.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Infrastructure\\Repositories\\BancoUnitOfWorkRepository.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Infrastructure\\Repositories\\BancoUnitOfWorkRepository.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Infrastructure\\Repositories\\BancoUnitOfWorkRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwB0AAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:18:47.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IPersonasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Contracts\\Persistence\\IPersonasRepository.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Contracts\\Persistence\\IPersonasRepository.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Contracts\\Persistence\\IPersonasRepository.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Contracts\\Persistence\\IPersonasRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T18:04:19.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RequestEstadoCuenta.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Domain\\Entities\\RequestEstadoCuenta.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Domain\\Entities\\RequestEstadoCuenta.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Domain\\Entities\\RequestEstadoCuenta.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Domain\\Entities\\RequestEstadoCuenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T01:16:53.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetAllCuentasCommand.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\GetAllCuentas\\GetAllCuentasCommand.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\GetAllCuentas\\GetAllCuentasCommand.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\GetAllCuentas\\GetAllCuentasCommand.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\GetAllCuentas\\GetAllCuentasCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:32:39.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GetAllCuentasCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\GetAllCuentas\\GetAllCuentasCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\GetAllCuentas\\GetAllCuentasCommandHandler.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\GetAllCuentas\\GetAllCuentasCommandHandler.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\GetAllCuentas\\GetAllCuentasCommandHandler.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:32:54.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetAllClientesCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\GetAllClientes\\GetAllClientesCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\GetAllClientes\\GetAllClientesCommandHandler.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\GetAllClientes\\GetAllClientesCommandHandler.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\GetAllClientes\\GetAllClientesCommandHandler.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:59:31.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Personas.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Domain\\Entities\\Personas.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Domain\\Entities\\Personas.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Domain\\Entities\\Personas.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Domain\\Entities\\Personas.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:41:07.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20240927145438_RetoTecnicoBDD_v1.0.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\Neoris\\Core.RetoTecnico\\Core.RetoTecnico.Infrastructure\\Migrations\\20240927145438_RetoTecnicoBDD_v1.0.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Usuario\\source\\Neoris\\Core.RetoTecnico\\Core.RetoTecnico.Infrastructure\\Migrations\\20240927145438_RetoTecnicoBDD_v1.0.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\Neoris\\Core.RetoTecnico\\Core.RetoTecnico.Infrastructure\\Migrations\\20240927145438_RetoTecnicoBDD_v1.0.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Usuario\\source\\Neoris\\Core.RetoTecnico\\Core.RetoTecnico.Infrastructure\\Migrations\\20240927145438_RetoTecnicoBDD_v1.0.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:54:38.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IBancoUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Contracts\\Persistence\\IBancoUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Contracts\\Persistence\\IBancoUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Contracts\\Persistence\\IBancoUnitOfWork.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Contracts\\Persistence\\IBancoUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T18:05:58.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20240927024523_BancoBDD_v1.1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\Neoris\\Core.RetoTecnico\\Core.RetoTecnico.Infrastructure\\Migrations\\20240927024523_BancoBDD_v1.1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Usuario\\source\\Neoris\\Core.RetoTecnico\\Core.RetoTecnico.Infrastructure\\Migrations\\20240927024523_BancoBDD_v1.1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\Neoris\\Core.RetoTecnico\\Core.RetoTecnico.Infrastructure\\Migrations\\20240927024523_BancoBDD_v1.1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Usuario\\source\\Neoris\\Core.RetoTecnico\\Core.RetoTecnico.Infrastructure\\Migrations\\20240927024523_BancoBDD_v1.1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T02:45:23.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Core.RetoTecnico.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T22:12:54.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PersonasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Infrastructure\\Repositories\\PersonasRepository.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Infrastructure\\Repositories\\PersonasRepository.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Infrastructure\\Repositories\\PersonasRepository.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Infrastructure\\Repositories\\PersonasRepository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAawDQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:27:22.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Core.RetoTecnico.API.csproj",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.API\\Core.RetoTecnico.API.csproj",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.API\\Core.RetoTecnico.API.csproj",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.API\\Core.RetoTecnico.API.csproj",
+              "RelativeToolTip": "Core.RetoTecnico.API\\Core.RetoTecnico.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-26T00:37:25.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UpdatePersonaCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\UpdatePersona\\UpdatePersonaCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\UpdatePersona\\UpdatePersonaCommandHandler.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\UpdatePersona\\UpdatePersonaCommandHandler.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\UpdatePersona\\UpdatePersonaCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:20:07.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UpdatePersonaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\UpdatePersona\\UpdatePersonaCommand.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\UpdatePersona\\UpdatePersonaCommand.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\UpdatePersona\\UpdatePersonaCommand.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\UpdatePersona\\UpdatePersonaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:19:52.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UpdateMovimientoCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\UpdateMovimiento\\UpdateMovimientoCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\UpdateMovimiento\\UpdateMovimientoCommandHandler.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\UpdateMovimiento\\UpdateMovimientoCommandHandler.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\UpdateMovimiento\\UpdateMovimientoCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:19:31.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UpdateMovimientoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\UpdateMovimiento\\UpdateMovimientoCommand.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\UpdateMovimiento\\UpdateMovimientoCommand.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\UpdateMovimiento\\UpdateMovimientoCommand.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\UpdateMovimiento\\UpdateMovimientoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:19:19.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UpdateCuentaCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\UpdateCuenta\\UpdateCuentaCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\UpdateCuenta\\UpdateCuentaCommandHandler.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\UpdateCuenta\\UpdateCuentaCommandHandler.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\UpdateCuenta\\UpdateCuentaCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:10:35.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UpdateCuentaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\UpdateCuenta\\UpdateCuentaCommand.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\UpdateCuenta\\UpdateCuentaCommand.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\UpdateCuenta\\UpdateCuentaCommand.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\UpdateCuenta\\UpdateCuentaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T21:55:57.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DeletePersonaCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\DeletePersona\\DeletePersonaCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\DeletePersona\\DeletePersonaCommandHandler.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\DeletePersona\\DeletePersonaCommandHandler.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\DeletePersona\\DeletePersonaCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:43:33.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UpdateClienteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\UpdateCliente\\UpdateClienteCommand.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\UpdateCliente\\UpdateClienteCommand.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\UpdateCliente\\UpdateClienteCommand.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\UpdateCliente\\UpdateClienteCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:10:17.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UpdateClienteCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\UpdateCliente\\UpdateClienteCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\UpdateCliente\\UpdateClienteCommandHandler.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\UpdateCliente\\UpdateClienteCommandHandler.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\UpdateCliente\\UpdateClienteCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:10:33.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DeletePersonaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\DeletePersona\\DeletePersonaCommand.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\DeletePersona\\DeletePersonaCommand.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\DeletePersona\\DeletePersonaCommand.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\DeletePersona\\DeletePersonaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:43:21.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DeleteMovimientoCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\DeleteMovimiento\\DeleteMovimientoCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\DeleteMovimiento\\DeleteMovimientoCommandHandler.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\DeleteMovimiento\\DeleteMovimientoCommandHandler.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\DeleteMovimiento\\DeleteMovimientoCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:43:02.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "DeleteCuentaCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\DeleteCuenta\\DeleteCuentaCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\DeleteCuenta\\DeleteCuentaCommandHandler.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\DeleteCuenta\\DeleteCuentaCommandHandler.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\DeleteCuenta\\DeleteCuentaCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:42:29.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AddPersonaCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\AddPersona\\AddPersonaCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\AddPersona\\AddPersonaCommandHandler.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\AddPersona\\AddPersonaCommandHandler.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\AddPersona\\AddPersonaCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:36:38.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DeleteMovimientoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\DeleteMovimiento\\DeleteMovimientoCommand.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\DeleteMovimiento\\DeleteMovimientoCommand.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\DeleteMovimiento\\DeleteMovimientoCommand.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\DeleteMovimiento\\DeleteMovimientoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:42:49.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DeleteCuentaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\DeleteCuenta\\DeleteCuentaCommand.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\DeleteCuenta\\DeleteCuentaCommand.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\DeleteCuenta\\DeleteCuentaCommand.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\DeleteCuenta\\DeleteCuentaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:42:14.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AddPersonaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\AddPersona\\AddPersonaCommand.cs",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\AddPersona\\AddPersonaCommand.cs",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Features\\Queries\\Command\\AddPersona\\AddPersonaCommand.cs",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Features\\Queries\\Command\\AddPersona\\AddPersonaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:36:26.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Core.RetoTecnico.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj",
+              "RelativeToolTip": "Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-25T18:01:05.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Core.RetoTecnico.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Domain\\Core.RetoTecnico.Domain.csproj",
+              "RelativeDocumentMoniker": "Core.RetoTecnico.Domain\\Core.RetoTecnico.Domain.csproj",
+              "ToolTip": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Domain\\Core.RetoTecnico.Domain.csproj",
+              "RelativeToolTip": "Core.RetoTecnico.Domain\\Core.RetoTecnico.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-25T16:18:10.468Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

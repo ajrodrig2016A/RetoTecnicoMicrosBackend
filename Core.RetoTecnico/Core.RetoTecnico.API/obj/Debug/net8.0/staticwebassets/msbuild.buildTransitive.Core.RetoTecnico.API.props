@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Core.RetoTecnico.API.props" />
+</Project>

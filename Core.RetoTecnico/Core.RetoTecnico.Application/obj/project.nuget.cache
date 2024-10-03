@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "s56Vdy+I2fk0c0jlqbd3ti+PRc9W+ikOO3P+HBO+vi+WZ5r7itvPwHtmQMlBqSr7yO5Io6cSZZyTzKOR1uS/ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rodan\\source\\repos\\RetoTecnicoMicrosBackend\\Core.RetoTecnico\\Core.RetoTecnico.Application\\Core.RetoTecnico.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodan\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\rodan\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\rodan\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\rodan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
